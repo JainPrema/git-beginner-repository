@@ -1,1 +1,8 @@
 My name is prema
+
+commands:
+- git init
+- git commit
+- git status
+- git log
+- git add
