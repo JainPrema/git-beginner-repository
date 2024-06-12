@@ -10,5 +10,7 @@ commands:
 - git branch
 - git checkout
 - git init
+- git merge
+- git rebase 
 
 I am writing this line in main branch
