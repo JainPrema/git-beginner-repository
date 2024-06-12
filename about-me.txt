@@ -9,5 +9,6 @@ commands:
 - git diff
 - git branch
 - git checkout
+- git init
 
 I am writing this line in main branch
